@@ -1,0 +1,32 @@
+table, tr, td
+{
+	border: 1px solid black;	
+}
+
+table
+{
+	width:100%
+}
+
+td
+{
+	width:100px
+	margin:auto;
+	
+}
+
+tr
+{
+	height:40px;
+}
+
+.urlText
+{
+	width:50%		
+}
+
+.divURL
+{
+	
+}
+
